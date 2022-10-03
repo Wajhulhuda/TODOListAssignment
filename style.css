@@ -1,0 +1,7 @@
+.warn{
+    color: red;
+    margin-bottom: 10px;
+}
+table, td, th{
+    text-align: center;
+}
